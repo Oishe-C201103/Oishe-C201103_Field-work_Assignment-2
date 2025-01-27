@@ -1,5 +1,10 @@
-fastapi>=0.115.6
-uvicorn>=0.34.0
+fastapi>=0.111.0
+uvicorn>=0.30.0
 sqlalchemy
 databases
 pydantic
+requests-html
+lxml_html_clean
+python-dotenv
+mysql-connector-python
+groq
